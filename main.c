@@ -3,7 +3,8 @@
  *  TrafkCalc – TrafkVerse Calculator
  *  All Formulars from MagicBook, UseCases and BasicsOfTheVerses
  *
- *  © 2026 TrafkHop Entertainment™
+ *  Copyright © 2026 TrafkHop Entertainment™
+ *  All rights reserved.
  * ============================================================
  */
 
